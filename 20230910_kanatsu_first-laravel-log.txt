@@ -1,0 +1,237 @@
+[+] Running 1/105NBLDL:/mnt/c/Users/SK/coachtech/laravel/first-laravel$ sudo chmod -R 777 *
+[+] Running 1/3st-laravel_default    Created                                                                     0.3s
+[+] Running 1/3st-laravel_default    Created                                                                     0.3s
+[+] Running 1/3st-laravel_default    Created                                                                     0.3s
+[+] Running 1/3st-laravel_default    Created                                                                     0.3s
+[+] Running 1/3st-laravel_default    Created                                                                     0.3s
+[+] Running 1/3st-laravel_default    Created                                                                     0.3s
+[+] Running 1/3st-laravel_default    Created                                                                     0.3s
+[+] Running 1/3st-laravel_default    Created                                                                     0.3s
+[+] Running 3/3st-laravel_default    Created                                                                     0.3s
+ ✔ Network first-laravel_default         Created                                                                0.3s ⠇ Container first-laravel-mysql-1  Creating                                                                    0.8s
+[+] Running 3/5irst-laravel-mysql-1       Created                                                                0.9s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-php-1         Created                                                                0.9s
+[+] Running 3/5irst-laravel-mysql-1       Created                                                                0.9s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-php-1         Created                                                                0.9s
+[+] Running 3/5irst-laravel-mysql-1       Created                                                                0.9s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-php-1         Created                                                                0.9s
+[+] Running 3/5irst-laravel-mysql-1       Created                                                                0.9s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-php-1         Created                                                                0.9s
+[+] Running 3/5irst-laravel-mysql-1       Created                                                                0.9s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-php-1         Created                                                                0.9s
+[+] Running 3/5irst-laravel-mysql-1       Created                                                                0.9s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-php-1         Created                                                                0.9s
+[+] Running 3/5irst-laravel-mysql-1       Created                                                                0.9s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-php-1         Created                                                                0.9s
+[+] Running 3/5irst-laravel-mysql-1       Created                                                                0.9s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-php-1         Created                                                                0.9s
+[+] Running 4/5irst-laravel-mysql-1       Created                                                                0.9s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-php-1         Created                                                                0.9s
+ ✔ Container first-laravel-mysql-1       Created                                                                0.9s[+] Running 5/5rst-laravel-phpmyadmin-1  Creating                                                               0.8s
+ ✔ Network first-laravel_default         Created                                                                0.3s
+ ✔ Container first-laravel-mysql-1       Created                                                                0.9s ✔ Container first-laravel-nginx-1       Created                                                                0.9s
+[+] Running 3/5irst-laravel-php-1         Created                                                                0.9s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-phpmyadmin-1  Created                                                                1.0s
+[+] Running 3/5rst-laravel-mysql-1       Starting                                                               2.0s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-phpmyadmin-1  Created                                                                1.0s
+[+] Running 3/5rst-laravel-mysql-1       Starting                                                               2.1s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-phpmyadmin-1  Created                                                                1.0s
+[+] Running 3/5rst-laravel-mysql-1       Starting                                                               2.2s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-phpmyadmin-1  Created                                                                1.0s
+[+] Running 3/5rst-laravel-mysql-1       Starting                                                               2.3s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-phpmyadmin-1  Created                                                                1.0s
+[+] Running 3/5rst-laravel-mysql-1       Starting                                                               2.4s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-phpmyadmin-1  Created                                                                1.0s
+[+] Running 3/5rst-laravel-mysql-1       Starting                                                               2.5s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-phpmyadmin-1  Created                                                                1.0s
+[+] Running 3/5rst-laravel-mysql-1       Starting                                                               2.6s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-phpmyadmin-1  Created                                                                1.0s
+[+] Running 3/5rst-laravel-mysql-1       Starting                                                               2.7s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-phpmyadmin-1  Created                                                                1.0s
+[+] Running 3/5rst-laravel-mysql-1       Starting                                                               2.9s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-phpmyadmin-1  Created                                                                1.0s
+[+] Running 3/5rst-laravel-mysql-1       Starting                                                               2.9s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-phpmyadmin-1  Created                                                                1.0s
+[+] Running 3/5rst-laravel-mysql-1       Starting                                                               3.0s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-phpmyadmin-1  Created                                                                1.0s
+[+] Running 3/5rst-laravel-mysql-1       Starting                                                               3.1s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-phpmyadmin-1  Created                                                                1.0s
+[+] Running 3/5rst-laravel-mysql-1       Starting                                                               3.2s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-phpmyadmin-1  Created                                                                1.0s
+[+] Running 3/5rst-laravel-mysql-1       Starting                                                               3.4s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-phpmyadmin-1  Created                                                                1.0s
+[+] Running 3/5rst-laravel-mysql-1       Starting                                                               3.4s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-phpmyadmin-1  Created                                                                1.0s
+[+] Running 3/5rst-laravel-mysql-1       Starting                                                               3.5s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-phpmyadmin-1  Created                                                                1.0s
+[+] Running 3/5rst-laravel-mysql-1       Starting                                                               3.6s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-phpmyadmin-1  Created                                                                1.0s
+[+] Running 3/5rst-laravel-mysql-1       Starting                                                               3.7s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-phpmyadmin-1  Created                                                                1.0s
+[+] Running 3/5rst-laravel-mysql-1       Starting                                                               3.8s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-phpmyadmin-1  Created                                                                1.0s
+[+] Running 3/5rst-laravel-mysql-1       Starting                                                               3.9s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-phpmyadmin-1  Created                                                                1.0s
+[+] Running 3/5rst-laravel-mysql-1       Starting                                                               4.0s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-phpmyadmin-1  Created                                                                1.0s
+[+] Running 3/5rst-laravel-mysql-1       Starting                                                               4.1s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-phpmyadmin-1  Created                                                                1.0s
+[+] Running 3/5rst-laravel-mysql-1       Starting                                                               4.2s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-phpmyadmin-1  Created                                                                1.0s
+[+] Running 3/5rst-laravel-mysql-1       Starting                                                               4.3s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-phpmyadmin-1  Created                                                                1.0s
+[+] Running 3/5rst-laravel-mysql-1       Starting                                                               4.4s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-phpmyadmin-1  Created                                                                1.0s
+[+] Running 3/5rst-laravel-mysql-1       Starting                                                               4.5s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-phpmyadmin-1  Created                                                                1.0s
+[+] Running 3/5rst-laravel-mysql-1       Starting                                                               4.6s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-phpmyadmin-1  Created                                                                1.0s
+[+] Running 3/5rst-laravel-mysql-1       Starting                                                               4.7s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-phpmyadmin-1  Created                                                                1.0s
+[+] Running 3/5rst-laravel-mysql-1       Starting                                                               4.8s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-phpmyadmin-1  Created                                                                1.0s
+[+] Running 3/5rst-laravel-mysql-1       Starting                                                               4.9s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-phpmyadmin-1  Created                                                                1.0s
+[+] Running 3/5rst-laravel-mysql-1       Starting                                                               5.0s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-phpmyadmin-1  Created                                                                1.0s
+[+] Running 3/5rst-laravel-mysql-1       Starting                                                               5.1s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-phpmyadmin-1  Created                                                                1.0s
+[+] Running 3/5rst-laravel-mysql-1       Starting                                                               5.2s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-phpmyadmin-1  Created                                                                1.0s
+[+] Running 5/5rst-laravel-mysql-1       Starting                                                               5.3s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-phpmyadmin-1  Created                                                                1.0s
+ ✔ Container first-laravel-mysql-1       Started                                                                5.4s ✔ Container first-laravel-nginx-1       Created                                                                0.9s
+[+] Running 5/5irst-laravel-php-1         Started                                                                5.4s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-phpmyadmin-1  Created                                                                1.0s
+ ✔ Container first-laravel-mysql-1       Started                                                                5.4s ✔ Container first-laravel-nginx-1       Created                                                                0.9s
+[+] Running 3/5irst-laravel-php-1         Started                                                                5.4s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-phpmyadmin-1  Created                                                                1.0s
+[+] Running 3/5irst-laravel-mysql-1       Started                                                                5.4s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-php-1         Started                                                                5.4s
+[+] Running 3/5irst-laravel-mysql-1       Started                                                                5.4s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-php-1         Started                                                                5.4s
+[+] Running 3/5irst-laravel-mysql-1       Started                                                                5.4s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-php-1         Started                                                                5.4s
+[+] Running 3/5irst-laravel-mysql-1       Started                                                                5.4s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-php-1         Started                                                                5.4s
+[+] Running 3/5irst-laravel-mysql-1       Started                                                                5.4s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-php-1         Started                                                                5.4s
+[+] Running 3/5irst-laravel-mysql-1       Started                                                                5.4s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-php-1         Started                                                                5.4s
+[+] Running 3/5irst-laravel-mysql-1       Started                                                                5.4s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-php-1         Started                                                                5.4s
+[+] Running 3/5irst-laravel-mysql-1       Started                                                                5.4s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-php-1         Started                                                                5.4s
+[+] Running 3/5irst-laravel-mysql-1       Started                                                                5.4s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-php-1         Started                                                                5.4s
+[+] Running 3/5irst-laravel-mysql-1       Started                                                                5.4s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-php-1         Started                                                                5.4s
+[+] Running 3/5irst-laravel-mysql-1       Started                                                                5.4s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-php-1         Started                                                                5.4s
+[+] Running 3/5irst-laravel-mysql-1       Started                                                                5.4s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-php-1         Started                                                                5.4s
+[+] Running 3/5irst-laravel-mysql-1       Started                                                                5.4s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-php-1         Started                                                                5.4s
+[+] Running 3/5irst-laravel-mysql-1       Started                                                                5.4s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-php-1         Started                                                                5.4s
+[+] Running 3/5irst-laravel-mysql-1       Started                                                                5.4s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-php-1         Started                                                                5.4s
+[+] Running 3/5irst-laravel-mysql-1       Started                                                                5.4s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-php-1         Started                                                                5.4s
+[+] Running 3/5irst-laravel-mysql-1       Started                                                                5.4s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-php-1         Started                                                                5.4s
+[+] Running 3/5irst-laravel-mysql-1       Started                                                                5.4s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-php-1         Started                                                                5.4s
+[+] Running 3/5irst-laravel-mysql-1       Started                                                                5.4s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-php-1         Started                                                                5.4s
+[+] Running 3/5irst-laravel-mysql-1       Started                                                                5.4s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-php-1         Started                                                                5.4s
+[+] Running 3/5irst-laravel-mysql-1       Started                                                                5.4s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-php-1         Started                                                                5.4s
+[+] Running 3/5irst-laravel-mysql-1       Started                                                                5.4s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-php-1         Started                                                                5.4s
+[+] Running 3/5irst-laravel-mysql-1       Started                                                                5.4s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-php-1         Started                                                                5.4s
+[+] Running 3/5irst-laravel-mysql-1       Started                                                                5.4s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-php-1         Started                                                                5.4s
+[+] Running 3/5irst-laravel-mysql-1       Started                                                                5.4s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-php-1         Started                                                                5.4s
+[+] Running 4/5irst-laravel-mysql-1       Started                                                                5.4s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-php-1         Started                                                                5.4s
+ ✔ Container first-laravel-mysql-1       Started                                                                5.4s[+] Running 4/5rst-laravel-phpmyadmin-1  Starting                                                               7.2s
+ ✔ Network first-laravel_default         Created                                                                0.3s
+ ✔ Container first-laravel-mysql-1       Started                                                                5.4s[+] Running 5/5irst-laravel-nginx-1       Started                                                                7.3s
+ ✔ Network first-laravel_default         Created                                                                0.3s
+ ✔ Container first-laravel-mysql-1       Started                                                                5.4s ✔ Container first-laravel-nginx-1       Started                                                                7.3s
+[+] Running 5/5irst-laravel-php-1         Started                                                                5.4s
+ ✔ Network first-laravel_default         Created                                                                0.3s ✔ Container first-laravel-phpmyadmin-1  Started                                                                7.5s
+ ✔ Container first-laravel-mysql-1       Started                                                                5.4s ✔ Container first-laravel-nginx-1       Started                                                                7.3s
+ ✔ Container first-laravel-php-1         Started                                                                5.4s
+ ✔ Container first-laravel-phpmyadmin-1  Started                                                                7.5s
+ ✔ Container first-laravel-nginx-1       Started                                                                7.3s
+canmax@DESKTOP-05NBLDL:/mnt/c/Users/SK/coachtech/laravel/first-laravel$ docker-compose logs
+first-laravel-nginx-1  | /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
+first-laravel-nginx-1  | /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
+first-laravel-nginx-1  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/10-listen-on-ipv6-by-default.sh
+first-laravel-nginx-1  | 10-listen-on-ipv6-by-default.sh: info: Getting the checksum of /etc/nginx/conf.d/default.conf
+first-laravel-nginx-1  | 10-listen-on-ipv6-by-default.sh: info: /etc/nginx/conf.d/default.conf differs from the packaged version
+first-laravel-nginx-1  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
+first-laravel-nginx-1  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
+first-laravel-nginx-1  | /docker-entrypoint.sh: Configuration complete; ready for start up
+first-laravel-nginx-1  | 2023/09/09 21:01:58 [notice] 1#1: using the "epoll" event method
+first-laravel-nginx-1  | 2023/09/09 21:01:58 [notice] 1#1: nginx/1.21.1
+first-laravel-nginx-1  | 2023/09/09 21:01:58 [notice] 1#1: built by gcc 8.3.0 (Debian 8.3.0-6)
+first-laravel-nginx-1  | 2023/09/09 21:01:58 [notice] 1#1: OS: Linux 5.15.90.1-microsoft-standard-WSL2
+first-laravel-nginx-1  | 2023/09/09 21:01:58 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+first-laravel-nginx-1  | 2023/09/09 21:01:58 [notice] 1#1: start worker processes
+first-laravel-nginx-1  | 2023/09/09 21:01:58 [notice] 1#1: start worker process 30
+first-laravel-nginx-1  | 2023/09/09 21:01:58 [notice] 1#1: start worker process 31
+first-laravel-nginx-1  | 2023/09/09 21:01:58 [notice] 1#1: start worker process 32
+first-laravel-nginx-1  | 2023/09/09 21:01:58 [notice] 1#1: start worker process 33
+first-laravel-nginx-1  | 2023/09/09 21:01:58 [notice] 1#1: start worker process 34
+first-laravel-nginx-1  | 2023/09/09 21:01:58 [notice] 1#1: start worker process 35
+first-laravel-nginx-1  | 2023/09/09 21:01:58 [notice] 1#1: start worker process 36
+first-laravel-nginx-1  | 2023/09/09 21:01:58 [notice] 1#1: start worker process 37
+first-laravel-mysql-1  | 2023-09-09 21:01:54+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.26-1debian10 started.
+first-laravel-mysql-1  | 2023-09-09 21:01:57+00:00 [Note] [Entrypoint]: Switching to dedicated user 'mysql'
+first-laravel-mysql-1  | 2023-09-09 21:01:57+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.26-1debian10 started.
+first-laravel-mysql-1  | mysqld: [Warning] World-writable config file '/etc/mysql/conf.d/my.cnf' is ignored.
+first-laravel-mysql-1  | 2023-09-09T21:01:58.693870Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.26) starting as process 1
+first-laravel-mysql-1  | 2023-09-09T21:01:58.723491Z 0 [Warning] [MY-010159] [Server] Setting lower_case_table_names=2 because file system for /var/lib/mysql/ is case insensitive
+first-laravel-mysql-1  | 2023-09-09T21:01:58.792681Z 0 [Warning] [MY-000054] [Server] World-writable config file '/var/lib/mysql/auto.cnf' is ignored.
+first-laravel-mysql-1  | 2023-09-09T21:01:58.795427Z 0 [Warning] [MY-010107] [Server] World-writable config file '/var/lib/mysql/auto.cnf' has been removed.
+first-laravel-mysql-1  | 2023-09-09T21:01:58.802706Z 0 [Warning] [MY-010075] [Server] No existing UUID has been found, so we assume that this is the first time that this server has been started. Generating a new UUID: 1da0fe0e-4f54-11ee-99ca-0242ac140003.
+first-laravel-mysql-1  | 2023-09-09T21:01:58.867743Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+first-laravel-mysql-1  | 2023-09-09T21:02:01.038709Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+first-laravel-mysql-1  | mysqld: Table 'mysql.plugin' doesn't exist
+first-laravel-mysql-1  | 2023-09-09T21:02:01.353774Z 0 [ERROR] [MY-010735] [Server] Could not open the mysql.plugin table. Please perform the MySQL upgrade procedure.
+first-laravel-mysql-1  | 2023-09-09T21:02:01.354389Z 0 [Warning] [MY-010441] [Server] Failed to open optimizer cost constant tables
+first-laravel-mysql-1  | 2023-09-09T21:02:01.356000Z 0 [Warning] [MY-010441] [Server] Failed to open optimizer cost constant tables
+first-laravel-mysql-1  | 2023-09-09T21:02:01.357205Z 0 [Warning] [MY-010441] [Server] Failed to open optimizer cost constant tables
+first-laravel-mysql-1  | 2023-09-09T21:02:01.359146Z 0 [Warning] [MY-010441] [Server] Failed to open optimizer cost constant tables
+first-laravel-mysql-1  | 2023-09-09T21:02:01.360330Z 0 [Warning] [MY-010441] [Server] Failed to open optimizer cost constant tables
+first-laravel-mysql-1  | 2023-09-09T21:02:01.360751Z 0 [Warning] [MY-010441] [Server] Failed to open optimizer cost constant tables
+first-laravel-mysql-1  | 2023-09-09T21:02:01.361187Z 0 [Warning] [MY-010441] [Server] Failed to open optimizer cost constant tables
+first-laravel-mysql-1  | 2023-09-09T21:02:01.781127Z 0 [Warning] [MY-010015] [Repl] Gtid table is not ready to be used. Table 'mysql.gtid_executed' cannot be opened.
+first-laravel-mysql-1  | 2023-09-09T21:02:02.152278Z 0 [Warning] [MY-010015] [Repl] Gtid table is not ready to be used. Table 'mysql.gtid_executed' cannot be opened.
+first-laravel-mysql-1  | 2023-09-09T21:02:02.251554Z 0 [Warning] [MY-013746] [Server] A deprecated TLS version TLSv1 is enabled for channel mysql_main
+first-laravel-mysql-1  | 2023-09-09T21:02:02.252093Z 0 [Warning] [MY-013746] [Server] A deprecated TLS version TLSv1.1 is enabled for channel mysql_main
+first-laravel-mysql-1  | 2023-09-09T21:02:02.301359Z 0 [Warning] [MY-013595] [Server] Failed to initialize TLS for channel: mysql_main. See below for the description of exact issue.
+first-laravel-mysql-1  | 2023-09-09T21:02:02.301893Z 0 [Warning] [MY-010069] [Server] Failed to set up SSL because of the following SSL library error: SSL context is not usable without certificate and private key
+first-laravel-mysql-1  | 2023-09-09T21:02:02.319512Z 0 [Warning] [MY-010284] [Server] RSA public key file not found: /var/lib/mysql//public_key.pem. Some authentication plugins will not work.
+first-laravel-mysql-1  | 2023-09-09T21:02:02.338907Z 0 [Warning] [MY-010284] [Server] RSA public key file not found: /var/lib/mysql//public_key.pem. Some authentication plugins will not work.
+first-laravel-mysql-1  | 2023-09-09T21:02:02.492226Z 0 [Warning] [MY-011810] [Server] Insecure configuration for --pid-file: Location '/var/run/mysqld' in the path is accessible to all OS users. Consider choosing a different directory.
+first-laravel-mysql-1  | 2023-09-09T21:02:02.493488Z 0 [Warning] [MY-010441] [Server] Failed to open optimizer cost constant tables
+first-laravel-mysql-1  | 2023-09-09T21:02:02.494455Z 0 [ERROR] [MY-013129] [Server] A message intended for a client cannot be sent there as no client-session is attached. Therefore, we're sending the information to the error-log instead: MY-001146 - Table 'mysql.component' doesn't exist
+first-laravel-mysql-1  | 2023-09-09T21:02:02.494731Z 0 [Warning] [MY-013129] [Server] A message intended for a client cannot be sent there as no client-session is attached. Therefore, we're sending the information to the error-log instead: MY-003543 - The mysql.component table is missing or has an incorrect definition.
+first-laravel-mysql-1  | 2023-09-09T21:02:02.496156Z 0 [ERROR] [MY-010326] [Server] Fatal error: Can't open and lock privilege tables: Table 'mysql.user' doesn't exist
+first-laravel-mysql-1  | 2023-09-09T21:02:02.497413Z 0 [ERROR] [MY-010952] [Server] The privilege system failed to initialize correctly. For complete instructions on how to upgrade MySQL to a new version please see the 'Upgrading MySQL' section from the MySQL manual.
+first-laravel-mysql-1  | 2023-09-09T21:02:02.498042Z 0 [ERROR] [MY-010119] [Server] Aborting
+first-laravel-mysql-1  | 2023-09-09T21:02:04.133921Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.26)  MySQL Community Server - GPL.
+first-laravel-php-1    | [09-Sep-2023 21:01:55] NOTICE: fpm is running, pid 1
+first-laravel-php-1    | [09-Sep-2023 21:01:55] NOTICE: ready to handle connections
+first-laravel-phpmyadmin-1  | AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.5. Set the 'ServerName' directive globally to suppress this message
+first-laravel-phpmyadmin-1  | AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.5. Set the 'ServerName' directive globally to suppress this message
+first-laravel-phpmyadmin-1  | [Sat Sep 09 21:01:58.632361 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+first-laravel-phpmyadmin-1  | [Sat Sep 09 21:01:58.632799 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+canmax@DESKTOP-05NBLDL:/mnt/c/Users/SK/coachtech/laravel/first-laravel$
